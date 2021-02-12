@@ -1,0 +1,100 @@
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.g.cs
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.baml
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CopyComplete
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\User\Downloads\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.g.cs
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.baml
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.GenerateResource.cache
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CopyComplete
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\student\Desktop\EvidenceExam\New folder\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.g.cs
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.baml
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\User\OneDrive\Desktop\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.g.cs
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.baml
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CopyComplete
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.g.cs
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Authors.baml
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\LibaryManagementSystem.csproj.CopyComplete
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Azman.PIIT\Desktop\Project_PNTL_R45_StoreApp\WalidulhasanBoniamin_1258683\library management system in wpf application\LibaryManagementSystem\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb

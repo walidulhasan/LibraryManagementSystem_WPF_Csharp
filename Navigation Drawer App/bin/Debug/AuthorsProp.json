@@ -1,0 +1,14 @@
+{
+  "AuthorsProp": [
+    {
+      "Id": "1",
+      "Title": "Mr.",
+      "FirstName": "Kamal",
+      "LastName": "Hossen",
+      "Gender": "Female",
+      "Email": "fiverrwalid@gmail.com",
+      "Contact": "01734456739",
+      "Address": "Dhaka,Barisal,Jamal"
+    }
+  ]
+}
